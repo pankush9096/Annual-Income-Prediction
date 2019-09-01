@@ -3,4 +3,6 @@ Here we are using dataset that contains the information about individuals from v
 
 I am using LightGBM and will also show you the difference why LightGBM is better than XGboost.
 
+I am also explaining all the evalusation metrics like ROC_Auc,Gini,KS Score, Concaordance, Precision_recall_f1 score
+
 Here is the link to the dataset: http://archive.ics.uci.edu/ml/datasets/Adult.
